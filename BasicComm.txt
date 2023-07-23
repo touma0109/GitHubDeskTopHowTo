@@ -1,4 +1,4 @@
-これはGitHub DeskTopの基本的な使用方法を記載したドキュメントです。
+これはGitHub DeskTopの基本的な使用方法や裏技までなんでも記載する場所です。
 
 公式サイト : https://desktop.github.com/
 
